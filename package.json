@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KevinKentDev/SwingQuest/issues"
   },
-  "homepage": "https://github.com/KevinKentDev/SwingQuest#readme"
+  "homepage": "https://github.com/KevinKentDev/SwingQuest#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.4"
+  }
 }
